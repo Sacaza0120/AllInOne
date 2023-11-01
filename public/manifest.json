@@ -1,0 +1,56 @@
+{
+  "short_name": "All",
+  "name": "All In One",
+  "description": "All In One es la aplicación numero 1 de tiendas Online en todo latinoamerica, ¿Que esperas para ser parte de esta?",
+  "background_color": "#ffffff",
+  "theme_color": "#ebf3ff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    
+    {
+      "src": "./img/shop_36.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/shop_48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./img/shop_64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "./img/shop_72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./img/shop_96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./img/shop_128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./img/shop_256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./img/shop.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    
+  ]
+}
